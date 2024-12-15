@@ -3,3 +3,4 @@ Pillow
 protobuf
 python-telegram-bot==21.9
 streamlit==1.34.0
+google-generativeai==0.8.3
